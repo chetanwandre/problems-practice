@@ -1,7 +1,10 @@
 //print n to 1 without using global variable
+
+//source code :- 
 #include<bits/stdc++.h>
 using namespace std;
 
+//passing parameters to the function
 void print(int i , int n){
     if(i<1){
         return;
