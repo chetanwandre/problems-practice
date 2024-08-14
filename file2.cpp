@@ -30,3 +30,9 @@ int main(){
   disp(1,n);
   return 0;
 }
+
+//output
+
+// enter n 
+// 4
+// chetan chetan chetan chetan
