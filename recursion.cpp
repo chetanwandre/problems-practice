@@ -23,3 +23,10 @@ int main(){
     print(n,n);
     return 0;
 }
+
+// output
+
+// hello chetan 
+// enter i and n 
+// 1 10
+// 10 9 8 7 6 5 4 3 2 1
