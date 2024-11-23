@@ -31,6 +31,23 @@ int main(){
     return 0;
 }
 
+// output:-
+
+//     assseASOGHhhgoip
+// 6
+// a
+// 1
+// l
+// 0
+// s
+// 3
+// S
+// 1
+// h
+// 2
+// H
+// 1
+
 
 
 
@@ -66,6 +83,20 @@ int main(){
 }
 
 
+// output:-
+    
+// aaeeiiiokkkcc
+// 4
+// i
+// 3
+// c
+// 2
+// g
+// 0
+// k
+// 3
+
+
 
 
 CASE 3:- 
@@ -98,3 +129,18 @@ int main(){
 
     return 0;
 }
+
+
+// output
+// GADGAAWWWEEETTO
+// 5
+// G
+// 2
+// W
+// 3
+// E
+// 3
+// H
+// 0
+// D
+// 1
